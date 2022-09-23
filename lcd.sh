@@ -2,6 +2,6 @@
 cd ..
 sudo rm -rf lcd-show
 git clone https://github.com/goodtft/LCD-show.git
-chmod -R 755 lcd-show
-cd lcd-show
-sudo ./lcd-show
+chmod -R 755 LCD-show
+cd LCD-show
+sudo ./LCD-show
