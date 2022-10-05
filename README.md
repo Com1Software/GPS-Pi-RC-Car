@@ -18,6 +18,9 @@ sudo apt install golang
  [ Youtube ](https://www.youtube.com/watch?v=xetHqVwrjkE&t=180s)
 
 
+[ Libre Wiring Tool  ](https://github.com/libre-computer-project/libretech-wiring-tool)
+
+
 [ more guides and run throughs ](https://www.youtube.com/c/LibreComputer)
 
 
