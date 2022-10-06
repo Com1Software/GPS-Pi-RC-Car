@@ -29,7 +29,7 @@ go build
 
 cd ..
 git clone https://github.com/Com1Software/Test-Drive-Pi-RC-Car.git
-cd GPS-Track-Player
+cd Test-Drive-Pi-RC-Car
 go mod init test
 go mod tidy
 go build
