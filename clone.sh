@@ -28,4 +28,12 @@ go mod tidy
 go build
 
 cd ..
+git clone https://github.com/Com1Software/Test-Drive-Pi-RC-Car.git
+cd GPS-Track-Player
+go mod init test
+go mod tidy
+go build
+
+cd ..
+
 return
