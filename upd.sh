@@ -24,4 +24,11 @@ go mod tidy
 go build
 
 cd ..
+cd Test-Drive-Pi-RC-Car
+git pull
+go mod tidy
+go build
+
+cd ..
+
 return
